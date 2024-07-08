@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "kaiqun.build-runner",
+        "dart-code.dart-code",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "microtronics.connection-companion"
+    ]
+}
